@@ -1,4 +1,3 @@
-
 # **OpenChat：真正私密的点对点加密聊天工具** 
 #？OpenChat：真正私密的点对点加密聊天工具
 **安全·开放·自由沟通**
@@ -6,7 +5,7 @@
 
 
 **下载体验**：  
-[Google Play 链接](https://play.google.com/storn/1674) | [Windows 下载密码:76cq](https://nanet.lanzouq.com/iJMs031gfo8d)
+[官网](https://nanet.ct.ws/md?f=oc)[GitHub](https://github.com/qwas111/OpenChat/)
 ## **一、产品简介**  
 **OpenChat** 是一款专注于隐私保护的即时通讯软件，采用端到端加密（E2EE）技术，确保只有对话双方能读取消息内容。无需手机号注册，无广告追踪，无云端数据存储——**你的对话，只属于你**。
 
@@ -61,15 +60,12 @@
     *   **网络请求**: aiohttp
     *   **异步处理**: asyncio, qasync
 
-## 许可证
-   #本项目采用 Apache 2.0 许可证，由[网舰科技工作室](https://nanet.ct.ws)发布，由Stubborn_Li（倔强的李）（[QQ](https://qm.qq.com/q/wUsevOXY1G)|[bilibili](https://space.bilibili.com/2136004536)|[GitHub](https://github.com/qwas111/)）开发维护。
+## 版权
+    #本项目采用 Apache 2.0 许可证，由[网舰科技工作室](https://nanet.ct.ws)发布，由Stubborn_Li（倔强的李）（[QQ](https://qm.qq.com/q/wUsevOXY1G)|[bilibili](https://space.bilibili.com/2136004536)|[GitHub](https://github.com/qwas111/)）开发维护。
 
 **为什么选择 OpenChat？**  
 > 当其他应用声称“加密”却保留元数据时，  
 > 当社交平台用你的聊天记录训练广告模型时，  
 > **OpenChat 选择了一条艰难但正确的路：**  
 > **让技术真正服务于人，而非资本与监控。**  
-
-
-
 
