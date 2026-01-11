@@ -5,7 +5,8 @@
 
 
 **下载体验**：  
-[官网](https://nanet.ct.ws/md?f=oc)[GitHub](https://github.com/qwas111/OpenChat/)
+[官网](https://nanet.ct.ws/md?f=oc)
+[GitHub](https://github.com/qwas111/OpenChat/)
 ## **一、产品简介**  
 **OpenChat** 是一款专注于隐私保护的即时通讯软件，采用端到端加密（E2EE）技术，确保只有对话双方能读取消息内容。无需手机号注册，无广告追踪，无云端数据存储——**你的对话，只属于你**。
 
