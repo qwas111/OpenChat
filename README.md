@@ -62,13 +62,14 @@
     *   **异步处理**: asyncio, qasync
 
 ## 许可证
-   #本项目采用 Apache 2.0 许可证，[由网舰科技工作室](https://nanet.ct.ws)发布，由Stubborn_Li（倔强的李）（[QQ](https://qm.qq.com/q/wUsevOXY1G)|[bilibili](https://space.bilibili.com/2136004536)|[GitHub](https://github.com/qwas111/)）开发维护。
+   #本项目采用 Apache 2.0 许可证，由[网舰科技工作室](https://nanet.ct.ws)发布，由Stubborn_Li（倔强的李）（[QQ](https://qm.qq.com/q/wUsevOXY1G)|[bilibili](https://space.bilibili.com/2136004536)|[GitHub](https://github.com/qwas111/)）开发维护。
 
 **为什么选择 OpenChat？**  
 > 当其他应用声称“加密”却保留元数据时，  
 > 当社交平台用你的聊天记录训练广告模型时，  
 > **OpenChat 选择了一条艰难但正确的路：**  
 > **让技术真正服务于人，而非资本与监控。**  
+
 
 
 
